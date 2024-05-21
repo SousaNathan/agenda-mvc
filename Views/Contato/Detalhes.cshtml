@@ -1,0 +1,31 @@
+@model agenda_mvc.Models.Contato
+
+@{
+  ViewData["Title"] = "Detalhes do contato";
+}
+
+<h1>Detalhes</h1>
+<div>
+  <div class="row">
+    <div class="col-sm-2">
+      @Html.DisplayNameFor(x => x.Nome)
+    </div>
+     <div class="col-sm-10">
+      @Html.DisplayFor(x => x.Nome)
+    </div>
+    <div class="col-sm-2">
+      @Html.DisplayNameFor(x => x.Telefone)
+    </div>
+     <div class="col-sm-10">
+      @Html.DisplayFor(x => x.Telefone)
+    </div>
+    <div class="col-sm-2">
+      @Html.DisplayNameFor(x => x.Ativo)
+    </div>
+     <div class="col-sm-10">
+      @Html.DisplayFor(x => x.Ativo)
+    </div>
+  </div>
+</div>
+<a asp-action="Editar" asp-route-id="@Model.Id">Editar</a> |
+<a asp-action="Index">Voltar</a>

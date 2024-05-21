@@ -18,6 +18,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Repositorios\Dio\agenda-mvc
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Repositorios/Dio/agenda-mvc/Views/Contato/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xDcmlhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorios/Dio/agenda-mvc/Views/Contato/Deletar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xEZWxldGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorios/Dio/agenda-mvc/Views/Contato/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xEZXRhbGhlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorios/Dio/agenda-mvc/Views/Contato/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repositorios/Dio/agenda-mvc/Views/Contato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Repositorios/Dio/agenda-mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

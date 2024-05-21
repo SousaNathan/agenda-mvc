@@ -134,3 +134,4 @@ D:\Repositorios\Dio\agenda-mvc\obj\Debug\net8.0\refint\agenda-mvc.dll
 D:\Repositorios\Dio\agenda-mvc\obj\Debug\net8.0\agenda-mvc.pdb
 D:\Repositorios\Dio\agenda-mvc\obj\Debug\net8.0\agenda-mvc.genruntimeconfig.cache
 D:\Repositorios\Dio\agenda-mvc\obj\Debug\net8.0\ref\agenda-mvc.dll
+D:\Repositorios\Dio\agenda-mvc\obj\Debug\net8.0\agenda-mvc.sourcelink.json

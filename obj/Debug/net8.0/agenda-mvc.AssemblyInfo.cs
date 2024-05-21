@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("agenda-mvc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e77e7addf37b0be833997925c627d0f67539f6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("agenda-mvc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("agenda-mvc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
